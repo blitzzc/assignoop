@@ -41,7 +41,7 @@ public class Main {
 
         public MedicalProfessional(){
         this.name = "unknown";
-        this.name = "none";
+        this.specialty = "none";
         }
 
         public MedicalProfessional(String name, String specialty){
